@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Health-Buddy</string>
+    <string name="underweight">Under\n</string>
+    <string name="normal_weight">Normal\n</string>
+    <string name="overweight">Over</string>
+    <string name="obese">Obese</string>
+    <string name="invalid_input">Invalid</string>
+        <string name="enter_height">Enter Height (cm):</string>
+        <string name="enter_weight">Enter Weight (kg):</string>
+        <string name="height_hint">Height</string>
+        <string name="weight_hint">Weight</string>
+        <string name="calculate">Calculate</string>
+    <string name="bmiText">BMI Text</string>
+    <string name="bmi_result">Your BMI is %1$.2f, which is considered %2$s.</string>
+
+</resources>
